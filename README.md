@@ -36,6 +36,8 @@ Demo: https://gamerdotcom.netlify.app/
   <li>As an admin, I can view all orders</li>
 </ul>
 
+## Installation
+
 ### 1. Run Frontend
 
 ```
