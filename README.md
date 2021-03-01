@@ -8,6 +8,7 @@ Backend: https://github.com/Scarcrux/TTP-Capstone-Backend/
 <ul>
   <li>React</li>
   <li>Redux</li>
+  <li>Express</li>
   <li>NoSQL</li>
   <li>Bootstrap</li>
 </ul>
