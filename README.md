@@ -1,6 +1,6 @@
 # Gamer.com Frontend
 
-Demo: https://gamerdotcom.netlify.app/
+Demo: https://gamerdotcom.netlify.app/<br/>
 Backend: https://github.com/Scarcrux/TTP-Capstone-Backend/
 
 ## Stack
