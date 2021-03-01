@@ -7,6 +7,7 @@ Demo: https://gamerdotcom.netlify.app/
 <ul>
   <li>React</li>
   <li>Redux</li>
+  <li>NoSQL</li>
   <li>Bootstrap</li>
 </ul>
 
