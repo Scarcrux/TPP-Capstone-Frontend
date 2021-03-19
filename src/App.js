@@ -1,9 +1,9 @@
 import './App.css';
 import { Header } from './components'
-import Products from './screens/Products';
-import Order from './screens/Order';
-import Orders from './screens/Orders';
-import { Cart, Home, MyOrders, Payment, PlaceOrder, Product, Profile, Register, SearchResults, Shipping, Signin } from './screens/';
+import Products from './views/Products';
+import Order from './views/Order';
+import Orders from './views/Orders';
+import { Cart, Home, MyOrders, NotFound, Payment, PlaceOrder, Product, Profile, Register, SearchResults, Shipping, Signin } from './views/';
 import { BrowserRouter, Route } from 'react-router-dom';
 
 function App() {
@@ -34,6 +34,7 @@ function App() {
         <Route exact path="/shipping" component={Shipping} />
         <Route exact path="/signin" component={Signin} />
         <Route exact path="/products" component={Products} />
+        <Route component={NotFound} />
       </div>
     </BrowserRouter>
   );

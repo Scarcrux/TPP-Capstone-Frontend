@@ -1,6 +1,7 @@
 export { default as Cart } from './Cart'
 export { default as Home } from './Home'
 export { default as MyOrders } from './MyOrders'
+export { default as NotFound } from './NotFound'
 export { default as Order } from './Order'
 export { default as Orders } from './Orders'
 export { default as Paginations } from './Paginations'

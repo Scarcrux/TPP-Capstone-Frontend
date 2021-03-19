@@ -35,8 +35,8 @@ function Products(props) {
         </div>
       </td>
     </tr>
-               <tr class={`collapse multi-collapse-${product._id}`} id={`multiCollapseExample-${product._id}`}>
-               <td>{product.description}</td>
+        <tr class={`collapse multi-collapse-${product._id}`} id={`multiCollapseExample-${product._id}`} colspan="4">
+        <td>{product.description}</td>
            </tr>
            </Fragment>
   ));
